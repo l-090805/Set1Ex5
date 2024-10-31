@@ -6,7 +6,7 @@
         {
             Console.Write("Introduceti un numar: ");
             int numar = int.Parse(Console.ReadLine());
-            Console.Write("Introduceti valoarea lui k (cifra de la sfarsit pe care o doriti): ");
+            Console.Write("Introduceti valoarea lui k (a catea cifra de la sfarsit pe care o doriti): ");
             int k = int.Parse(Console.ReadLine());
 
             if (k <= 0)
